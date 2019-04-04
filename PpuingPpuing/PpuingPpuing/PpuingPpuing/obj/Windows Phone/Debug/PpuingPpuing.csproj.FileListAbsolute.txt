@@ -1,0 +1,540 @@
+c:\users\byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.dll
+c:\users\byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.pdb
+c:\users\byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.dll
+c:\users\byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.pdb
+c:\users\byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\AppManifest.xaml
+c:\users\byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\WMAppManifest.xml.g
+c:\users\byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+c:\users\byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.xap
+c:\users\byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\PpuingPpuing.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Ppuoooooo.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Option.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.csprojResolveAssemblyReference.cache
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Continue.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Start.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Background.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\MapScreen\Background.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\SkipButton.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Home.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Locked.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Option.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\UnLocked.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\Background.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\AttackButton.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\JumpButton.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\LeftButton.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\RightButton.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\SkillButton.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\ConvexField.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\FlatField.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\LeftField.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\RightField.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Continue.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Background.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Home.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Reset.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\SkillActive.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\Background.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFinalStage.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFirstStage.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFourthStage.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteSecondStage.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteThirdStage.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFinalStage.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFirstStage.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFourthStage.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteSecondStage.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteThirdStage.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompletePolarBear.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompletePolarBear.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\StageGuideLine.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Danger_First.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Danger_Second.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Dead.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Good.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Hard_First.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Hard_Second.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Tired.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Moving.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Moving.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\Bar_Health.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\Bar_Mana.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Attacking.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Attacked.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Attacking.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Attacked.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Dying.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\OpenFirstStage.xnb
+C:\Users\Byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\OpenSecondStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Option.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Background.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\PpuingPpuing.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Ppuoooooo.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Continue.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Start.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\MapScreen\Background.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\SkipButton.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Home.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Locked.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Option.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\UnLocked.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\Background.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\ConvexField.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\FlatField.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\LeftField.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\RightField.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Moving.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Continue.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Home.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Reset.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Background.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\AttackButton.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\JumpButton.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\SkillButton.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\SkillActive.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\Background.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFinalStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFirstStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFourthStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteSecondStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteThirdStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFinalStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFirstStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFourthStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteSecondStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteThirdStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompletePolarBear.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompletePolarBear.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\StageGuideLine.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Danger_First.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Danger_Second.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Dead.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Good.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Hard_First.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Hard_Second.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Tired.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Moving.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\LeftButton.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\RightButton.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\Bar_Health.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\Bar_Mana.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Attacking.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Attacked.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Attacking.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Attacked.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Dying.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\OpenFirstStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\OpenSecondStage.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.dll
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.pdb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.csprojResolveAssemblyReference.cache
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.dll
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.pdb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.xap
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\myFont.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Panda.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_PolarBear.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\Power.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\Ppuooo_Gory.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\Ppuooo_Pandy.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\Ppuooo_Poly.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\SpecialA.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\SpecialA2.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\SpecialA3.xnb
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\SpecialA4.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Option.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Background.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\PpuingPpuing.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Ppuoooooo.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Continue.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Start.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\MapScreen\Background.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\SkipButton.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Home.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Locked.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Option.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\UnLocked.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\Background.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\ConvexField.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\FlatField.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\LeftField.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\RightField.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Moving.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Continue.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Home.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Reset.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Background.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\AttackButton.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\JumpButton.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\SkillButton.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\SkillActive.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\Background.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFinalStage.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFirstStage.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFourthStage.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteSecondStage.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteThirdStage.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFinalStage.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFirstStage.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFourthStage.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteSecondStage.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteThirdStage.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompletePolarBear.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompletePolarBear.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\StageGuideLine.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Danger_First.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Danger_Second.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Dead.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Good.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Hard_First.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Hard_Second.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Tired.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Moving.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\LeftButton.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\RightButton.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\Bar_Health.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\Bar_Mana.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Attacking.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Attacked.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Attacking.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Attacked.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Dying.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\OpenFirstStage.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\OpenSecondStage.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Panda.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_PolarBear.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\Power.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\Ppuooo_Gory.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\Ppuooo_Pandy.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\Ppuooo_Poly.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\SpecialA.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\SpecialA2.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\SpecialA3.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillStatus\SpecialA4.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\myFont.xnb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.dll
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.pdb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.csprojResolveAssemblyReference.cache
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.dll
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.pdb
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\AppManifest.xaml
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\WMAppManifest.xml.g
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\WMAppManifest.xml
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.xap
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Option.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Background.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Continue.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Start.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\MapScreen\Background.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\SkipButton.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Home.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Locked.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Option.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\UnLocked.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\Background.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\ConvexField.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\FlatField.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\LeftField.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\RightField.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Moving.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Continue.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Home.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Reset.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Background.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\AttackButton.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\JumpButton.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\SkillButton.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\SkillActive.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\Background.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFinalStage.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFirstStage.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFourthStage.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteSecondStage.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteThirdStage.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFinalStage.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFirstStage.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFourthStage.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteSecondStage.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteThirdStage.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompletePolarBear.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompletePolarBear.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\StageGuideLine.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Danger_First.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Danger_Second.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Dead.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Good.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Hard_First.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Hard_Second.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Tired.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Moving.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\LeftButton.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\RightButton.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\Bar_Health.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\Bar_Mana.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Attacking.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Attacked.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Attacking.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Attacked.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Dying.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\OpenFirstStage.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\OpenSecondStage.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.dll
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.pdb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.csprojResolveAssemblyReference.cache
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.dll
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.pdb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.xap
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\failed.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\success.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\SettingBackground.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\SettingCancel.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\01.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\02.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\03.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\04.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\05.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\06.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\07.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\08.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\09.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\10.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\11.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\12.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\13.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\ButtonS.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\hurt.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\knife.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\PlayBGM.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\punch.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\punch2.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\TitleMusic.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\TitleMusic.wma
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\PpuoooSkill.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\ArmadilloSkill.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\TunaSkill.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\Rhinoceros.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\FrogSkill.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\PandaSkill.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\PolarBearSkill.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Skill.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\EmptyButton.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\SkillState.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\SkillBorder.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_PolarBear_Action.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\IceFall.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\IcePick.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\SnowFall.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Exit.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\AntelopeBlack.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\AntelopeColor.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\ArmadilloBlack.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\ArmadilloColor.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\FrogBlack.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\FrogColor.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\PandaBlack.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\PandaColor.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\PolarBearBlack.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\PolarBearColor.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\Ppuooo.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\RhinocerosBlack.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\RhinocerosColor.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\TunaBlack.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\TunaColor.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\BigApple.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\SmallApple.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\Shadow.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Standing.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Panda_Moving.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_PolarBear_Moving.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Frog_Moving.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\CompletePosition.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\PpuingPpuingText.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\PpuooooooText.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\AgainMark.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\AgainText.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Background.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Leaf.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Percent.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Result.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\myFont.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\myFont.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Ppuooo.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\BeadPiece.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\LeafPiece.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\EmptyBead.xnb
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\FullBead.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Option.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Background.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Continue.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Start.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\MapScreen\Background.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\SkipButton.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Home.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Locked.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Option.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\UnLocked.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\Background.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\ConvexField.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\FlatField.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\LeftField.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\RightField.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Moving.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Continue.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Home.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Reset.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Background.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\AttackButton.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\JumpButton.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\SkillButton.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\SkillActive.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\Background.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFinalStage.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFirstStage.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFourthStage.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteSecondStage.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteThirdStage.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFinalStage.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFirstStage.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFourthStage.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteSecondStage.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteThirdStage.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompletePolarBear.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompletePolarBear.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\StageGuideLine.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Danger_First.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Danger_Second.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Dead.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Good.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Hard_First.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Hard_Second.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Tired.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Moving.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\LeftButton.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\RightButton.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\Bar_Health.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\Bar_Mana.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Attacking.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Attacked.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Attacking.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Attacked.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Dying.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\OpenFirstStage.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\OpenSecondStage.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Panda_Moving.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_PolarBear_Moving.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\SkillState.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\failed.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\success.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\SettingBackground.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\SettingCancel.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\01.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\02.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\03.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\04.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\05.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\06.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\07.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\08.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\09.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\10.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\11.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\12.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\13.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Frog_Moving.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_PolarBear_Action.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\PpuoooSkill.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\ArmadilloSkill.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Standing.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\CompletePosition.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\TunaSkill.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\Rhinoceros.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\FrogSkill.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\PandaSkill.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Skill.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\EmptyButton.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\SkillBorder.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\IceFall.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\IcePick.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\SnowFall.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Exit.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\AntelopeBlack.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\AntelopeColor.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\ArmadilloBlack.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\ArmadilloColor.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\FrogBlack.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\FrogColor.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\PandaBlack.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\PandaColor.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\PolarBearBlack.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\PolarBearColor.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\Ppuooo.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\RhinocerosBlack.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\RhinocerosColor.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\TunaBlack.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\TunaColor.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\PpuingPpuingText.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\PpuooooooText.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\BigApple.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\SmallApple.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\Shadow.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\AgainMark.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\AgainText.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Background.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\EmptyBead.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\FullBead.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Leaf.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Percent.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Result.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Ppuooo.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\BeadPiece.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\LeafPiece.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\PolarBearSkill.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\myFont.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\myFont.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\ButtonS.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\hurt.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\knife.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\PlayBGM.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\punch.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\punch2.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\TitleMusic.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\TitleMusic.wma
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.dll
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.pdb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.csprojResolveAssemblyReference.cache
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.dll
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\PpuingPpuing.pdb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\PpuingPpuing.xap
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Stop.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Replay.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\SettingHome.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\173.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\62.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Success.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Fail.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Boss\Boss_Moving.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Boss\Boss_Attack.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Boss\Boss_Tired.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Boss\Boss_Bounce.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\14.xnb
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\PlayBGM.wma
