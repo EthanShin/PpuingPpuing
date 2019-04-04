@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{2F84FD2F-063F-4A91-B215-604BE4A3E150}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">Windows Phone</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PpuingPpuing</RootNamespace>
+    <AssemblyName>PpuingPpuing</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows Phone</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>91dce834-303a-4050-8133-a8c6c26ffb0f</XnaCrossPlatformGroupID>
+    <XnaOutputType>Game</XnaOutputType>
+    <XnaRefreshLevel>1</XnaRefreshLevel>
+    <WPTombstoneEnabled>false</WPTombstoneEnabled>
+    <XapFilename>$(AssemblyName).xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <XnaWindowsPhoneManifestTemplate>Properties\WMAppManifest.xml</XnaWindowsPhoneManifestTemplate>
+    <TileImage>173.png</TileImage>
+    <TileTitle>PpuingPpuing</TileTitle>
+    <SupportedCultures>
+    </SupportedCultures>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <Thumbnail>62.png</Thumbnail>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|Windows Phone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Windows Phone\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS_PHONE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|Windows Phone' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Windows Phone\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS_PHONE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Game" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Net" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Screen\FailResultScreen.cs" />
+    <Compile Include="Screen\ResultScreen.cs" />
+    <Compile Include="StageElement\BeadPiece.cs" />
+    <Compile Include="StageElement\BGM.cs" />
+    <Compile Include="StageElement\EnemyBoss.cs" />
+    <Compile Include="StageElement\IceFall.cs" />
+    <Compile Include="StageElement\IcePick.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReleaseButton.cs" />
+    <Compile Include="Scenario\1.PolarBear\Stage1_1.cs" />
+    <Compile Include="IScenario.cs" />
+    <Compile Include="Scenario\1.PolarBear\Stage1_2.cs" />
+    <Compile Include="Scenario\1.PolarBear\Stage1_3.cs" />
+    <Compile Include="Scenario\1.PolarBear\Stage1_4.cs" />
+    <Compile Include="Scenario\1.PolarBear\Stage1_5.cs" />
+    <Compile Include="Scenario\2.Panda\Stage2_1.cs" />
+    <Compile Include="Scenario\2.Panda\Stage2_2.cs" />
+    <Compile Include="Scenario\2.Panda\Stage2_3.cs" />
+    <Compile Include="Scenario\2.Panda\Stage2_4.cs" />
+    <Compile Include="Scenario\2.Panda\Stage2_5.cs" />
+    <Compile Include="Scenario\3.Tuna\Stage3_1.cs" />
+    <Compile Include="Scenario\3.Tuna\Stage3_2.cs" />
+    <Compile Include="Scenario\3.Tuna\Stage3_3.cs" />
+    <Compile Include="Scenario\3.Tuna\Stage3_4.cs" />
+    <Compile Include="Scenario\3.Tuna\Stage3_5.cs" />
+    <Compile Include="Scenario\4.Antelope\Stage4_1.cs" />
+    <Compile Include="Scenario\4.Antelope\Stage4_2.cs" />
+    <Compile Include="Scenario\4.Antelope\Stage4_3.cs" />
+    <Compile Include="Scenario\4.Antelope\Stage4_4.cs" />
+    <Compile Include="Scenario\4.Antelope\Stage4_5.cs" />
+    <Compile Include="Scenario\5.Rhinoceros\Stage5_1.cs" />
+    <Compile Include="Scenario\5.Rhinoceros\Stage5_2.cs" />
+    <Compile Include="Scenario\5.Rhinoceros\Stage5_3.cs" />
+    <Compile Include="Scenario\5.Rhinoceros\Stage5_4.cs" />
+    <Compile Include="Scenario\5.Rhinoceros\Stage5_5.cs" />
+    <Compile Include="Scenario\6.Frog\Stage6_1.cs" />
+    <Compile Include="Scenario\6.Frog\Stage6_2.cs" />
+    <Compile Include="Scenario\6.Frog\Stage6_3.cs" />
+    <Compile Include="Scenario\6.Frog\Stage6_4.cs" />
+    <Compile Include="Scenario\6.Frog\Stage6_5.cs" />
+    <Compile Include="Scenario\7.Armadillo\Stage7_1.cs" />
+    <Compile Include="Scenario\7.Armadillo\Stage7_2.cs" />
+    <Compile Include="Scenario\7.Armadillo\Stage7_3.cs" />
+    <Compile Include="Scenario\7.Armadillo\Stage7_4.cs" />
+    <Compile Include="Scenario\7.Armadillo\Stage7_5.cs" />
+    <Compile Include="Screen\PlayScreen.cs" />
+    <Compile Include="Screen\StoryScreen.cs" />
+    <Compile Include="StageElement\LeafPiece.cs" />
+    <Compile Include="StageElement\SnowFall.cs" />
+    <Compile Include="TouchDevice.cs" />
+    <Compile Include="Button.cs" />
+    <Compile Include="ScreenManager.cs" />
+    <Compile Include="IScreen.cs" />
+    <Compile Include="Screen\TitleScreen.cs" />
+    <Compile Include="Screen\MapScreen.cs" />
+    <Compile Include="Screen\StageScreen.cs" />
+    <Compile Include="StageElement\Enemy.cs" />
+    <Compile Include="StageManager.cs" />
+    <Compile Include="SkillButton.cs" />
+    <None Include="Properties\AppManifest.xml">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </None>
+    <None Include="Properties\WMAppManifest.xml">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </None>
+    <Compile Include="Program.cs" />
+    <Compile Include="Game1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="173.png" />
+    <Content Include="62.png" />
+    <Content Include="Game.ico" />
+    <Content Include="PhoneGameThumb.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+    <Content Include="Background.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PpuingPpuingContent\PpuingPpuingContent.contentproj">
+      <Name>PpuingPpuingContent</Name>
+      <XnaReferenceType>Content</XnaReferenceType>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

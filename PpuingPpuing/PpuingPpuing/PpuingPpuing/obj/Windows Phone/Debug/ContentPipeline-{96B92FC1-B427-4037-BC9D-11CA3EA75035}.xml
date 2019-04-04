@@ -1,0 +1,1372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>TitleScreen\Option.png</Source>
+      <Name>TitleScreen\Option</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Option.xnb</Output>
+      <Time>2013-02-21T15:07:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Background.jpg</Source>
+      <Name>TitleScreen\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Background.xnb</Output>
+      <Time>2013-04-01T17:37:06+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Continue.png</Source>
+      <Name>TitleScreen\Continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Continue.xnb</Output>
+      <Time>2013-04-01T17:00:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Start.png</Source>
+      <Name>TitleScreen\Start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Start.xnb</Output>
+      <Time>2013-04-01T17:00:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>MapScreen\Background.jpg</Source>
+      <Name>MapScreen\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\MapScreen\Background.xnb</Output>
+      <Time>2013-02-21T17:06:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\SkipButton.png</Source>
+      <Name>StoryScreen\SkipButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\SkipButton.xnb</Output>
+      <Time>2013-02-25T16:01:24+09:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Home.png</Source>
+      <Name>UI\Home</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Home.xnb</Output>
+      <Time>2013-02-25T16:33:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Locked.png</Source>
+      <Name>UI\Locked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Locked.xnb</Output>
+      <Time>2013-03-09T21:36:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Option.png</Source>
+      <Name>UI\Option</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Option.xnb</Output>
+      <Time>2013-02-25T16:33:00+09:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\UnLocked.png</Source>
+      <Name>UI\UnLocked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\UnLocked.xnb</Output>
+      <Time>2013-03-09T21:36:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\PolarBear\Background.jpg</Source>
+      <Name>PlayScreen\PolarBear\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\Background.xnb</Output>
+      <Time>2013-02-26T14:21:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\PolarBear\ConvexField.png</Source>
+      <Name>PlayScreen\PolarBear\ConvexField</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\ConvexField.xnb</Output>
+      <Time>2013-03-13T20:32:18+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\PolarBear\FlatField.png</Source>
+      <Name>PlayScreen\PolarBear\FlatField</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\FlatField.xnb</Output>
+      <Time>2013-03-13T20:32:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\PolarBear\LeftField.png</Source>
+      <Name>PlayScreen\PolarBear\LeftField</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\LeftField.xnb</Output>
+      <Time>2013-03-13T20:32:38+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\PolarBear\RightField.png</Source>
+      <Name>PlayScreen\PolarBear\RightField</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\RightField.xnb</Output>
+      <Time>2013-03-13T20:32:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Character\Ppuooo_Moving.png</Source>
+      <Name>PlayScreen\Character\Ppuooo_Moving</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Moving.xnb</Output>
+      <Time>2013-03-14T15:18:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionMenu\Continue.png</Source>
+      <Name>OptionMenu\Continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Continue.xnb</Output>
+      <Time>2013-02-26T16:47:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionMenu\Home.png</Source>
+      <Name>OptionMenu\Home</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Home.xnb</Output>
+      <Time>2013-02-26T16:47:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionMenu\Reset.png</Source>
+      <Name>OptionMenu\Reset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Reset.xnb</Output>
+      <Time>2013-02-26T16:47:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionMenu\Background.png</Source>
+      <Name>OptionMenu\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\OptionMenu\Background.xnb</Output>
+      <Time>2013-02-26T17:01:06+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Control\AttackButton.png</Source>
+      <Name>PlayScreen\Control\AttackButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\AttackButton.xnb</Output>
+      <Time>2013-03-02T12:40:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Control\JumpButton.png</Source>
+      <Name>PlayScreen\Control\JumpButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\JumpButton.xnb</Output>
+      <Time>2013-03-02T12:40:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Control\SkillButton.png</Source>
+      <Name>PlayScreen\Control\SkillButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\SkillButton.xnb</Output>
+      <Time>2013-03-02T12:40:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Control\SkillActive.png</Source>
+      <Name>PlayScreen\Control\SkillActive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\SkillActive.xnb</Output>
+      <Time>2013-03-02T12:40:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\Background.jpg</Source>
+      <Name>StageScreen\PolarBear\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\Background.xnb</Output>
+      <Time>2013-03-03T14:57:14+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\UncompleteFinalStage.png</Source>
+      <Name>StageScreen\PolarBear\UncompleteFinalStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFinalStage.xnb</Output>
+      <Time>2013-03-03T14:58:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\UncompleteFirstStage.png</Source>
+      <Name>StageScreen\PolarBear\UncompleteFirstStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFirstStage.xnb</Output>
+      <Time>2013-03-03T14:58:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\UncompleteFourthStage.png</Source>
+      <Name>StageScreen\PolarBear\UncompleteFourthStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteFourthStage.xnb</Output>
+      <Time>2013-03-03T14:58:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\UncompleteSecondStage.png</Source>
+      <Name>StageScreen\PolarBear\UncompleteSecondStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteSecondStage.xnb</Output>
+      <Time>2013-03-03T14:58:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\UncompleteThirdStage.png</Source>
+      <Name>StageScreen\PolarBear\UncompleteThirdStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompleteThirdStage.xnb</Output>
+      <Time>2013-03-03T14:58:20+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\CompleteFinalStage.png</Source>
+      <Name>StageScreen\PolarBear\CompleteFinalStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFinalStage.xnb</Output>
+      <Time>2013-03-03T14:59:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\CompleteFirstStage.png</Source>
+      <Name>StageScreen\PolarBear\CompleteFirstStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFirstStage.xnb</Output>
+      <Time>2013-04-13T17:07:57.844126+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\CompleteFourthStage.png</Source>
+      <Name>StageScreen\PolarBear\CompleteFourthStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteFourthStage.xnb</Output>
+      <Time>2013-03-03T14:59:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\CompleteSecondStage.png</Source>
+      <Name>StageScreen\PolarBear\CompleteSecondStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteSecondStage.xnb</Output>
+      <Time>2013-04-13T17:07:57.8401388+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\CompleteThirdStage.png</Source>
+      <Name>StageScreen\PolarBear\CompleteThirdStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompleteThirdStage.xnb</Output>
+      <Time>2013-03-03T14:59:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\CompletePolarBear.png</Source>
+      <Name>StageScreen\PolarBear\CompletePolarBear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\CompletePolarBear.xnb</Output>
+      <Time>2013-03-03T15:01:32+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\UncompletePolarBear.png</Source>
+      <Name>StageScreen\PolarBear\UncompletePolarBear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\UncompletePolarBear.xnb</Output>
+      <Time>2013-03-03T15:01:32+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\StageGuideLine.png</Source>
+      <Name>StageScreen\PolarBear\StageGuideLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\StageGuideLine.xnb</Output>
+      <Time>2013-03-03T15:08:30+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\State\State_Danger_First.png</Source>
+      <Name>PlayScreen\State\State_Danger_First</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Danger_First.xnb</Output>
+      <Time>2013-03-06T17:06:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\State\State_Danger_Second.png</Source>
+      <Name>PlayScreen\State\State_Danger_Second</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Danger_Second.xnb</Output>
+      <Time>2013-03-06T17:06:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\State\State_Dead.png</Source>
+      <Name>PlayScreen\State\State_Dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Dead.xnb</Output>
+      <Time>2013-03-06T17:06:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\State\State_Good.png</Source>
+      <Name>PlayScreen\State\State_Good</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Good.xnb</Output>
+      <Time>2013-03-06T17:06:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\State\State_Hard_First.png</Source>
+      <Name>PlayScreen\State\State_Hard_First</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Hard_First.xnb</Output>
+      <Time>2013-03-06T17:06:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\State\State_Hard_Second.png</Source>
+      <Name>PlayScreen\State\State_Hard_Second</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Hard_Second.xnb</Output>
+      <Time>2013-03-06T17:06:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\State\State_Tired.png</Source>
+      <Name>PlayScreen\State\State_Tired</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Tired.xnb</Output>
+      <Time>2013-03-06T17:06:50+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Character\Enemy_Moving.png</Source>
+      <Name>PlayScreen\Character\Enemy_Moving</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Moving.xnb</Output>
+      <Time>2013-03-14T15:18:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Control\LeftButton.png</Source>
+      <Name>PlayScreen\Control\LeftButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\LeftButton.xnb</Output>
+      <Time>2013-03-08T17:07:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Control\RightButton.png</Source>
+      <Name>PlayScreen\Control\RightButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Control\RightButton.xnb</Output>
+      <Time>2013-03-08T17:07:28+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\State\Bar_Health.png</Source>
+      <Name>PlayScreen\State\Bar_Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\Bar_Health.xnb</Output>
+      <Time>2013-03-08T17:24:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\State\Bar_Mana.png</Source>
+      <Name>PlayScreen\State\Bar_Mana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\Bar_Mana.xnb</Output>
+      <Time>2013-03-08T17:24:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Character\Ppuooo_Attacking.png</Source>
+      <Name>PlayScreen\Character\Ppuooo_Attacking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Attacking.xnb</Output>
+      <Time>2013-03-27T17:11:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Character\Enemy_Attacked.png</Source>
+      <Name>PlayScreen\Character\Enemy_Attacked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Attacked.xnb</Output>
+      <Time>2013-03-14T15:18:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Character\Enemy_Attacking.png</Source>
+      <Name>PlayScreen\Character\Enemy_Attacking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Enemy_Attacking.xnb</Output>
+      <Time>2013-03-14T15:18:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Character\Ppuooo_Attacked.png</Source>
+      <Name>PlayScreen\Character\Ppuooo_Attacked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Attacked.xnb</Output>
+      <Time>2013-03-14T15:18:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Character\Ppuooo_Dying.png</Source>
+      <Name>PlayScreen\Character\Ppuooo_Dying</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Dying.xnb</Output>
+      <Time>2013-03-14T15:18:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\OpenFirstStage.png</Source>
+      <Name>StageScreen\PolarBear\OpenFirstStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\OpenFirstStage.xnb</Output>
+      <Time>2013-03-13T16:52:30+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StageScreen\PolarBear\OpenSecondStage.png</Source>
+      <Name>StageScreen\PolarBear\OpenSecondStage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StageScreen\PolarBear\OpenSecondStage.xnb</Output>
+      <Time>2013-03-13T16:52:30+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Character\Ppuooo_Panda_Moving.png</Source>
+      <Name>PlayScreen\Character\Ppuooo_Panda_Moving</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Panda_Moving.xnb</Output>
+      <Time>2013-03-14T15:18:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Character\Ppuooo_PolarBear_Moving.png</Source>
+      <Name>PlayScreen\Character\Ppuooo_PolarBear_Moving</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_PolarBear_Moving.xnb</Output>
+      <Time>2013-03-14T15:18:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\SkillImage\SkillState.png</Source>
+      <Name>PlayScreen\SkillImage\SkillState</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\SkillState.xnb</Output>
+      <Time>2013-03-25T21:36:44+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\failed.png</Source>
+      <Name>PlayScreen\failed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\failed.xnb</Output>
+      <Time>2013-03-14T12:39:40+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\success.png</Source>
+      <Name>PlayScreen\success</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\success.xnb</Output>
+      <Time>2013-03-14T12:39:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\SettingBackground.png</Source>
+      <Name>UI\SettingBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\SettingBackground.xnb</Output>
+      <Time>2013-03-14T13:52:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\SettingCancel.png</Source>
+      <Name>UI\SettingCancel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\SettingCancel.xnb</Output>
+      <Time>2013-03-14T13:52:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\01.jpg</Source>
+      <Name>StoryScreen\01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\01.xnb</Output>
+      <Time>2013-04-15T05:40:34.4268141+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\02.jpg</Source>
+      <Name>StoryScreen\02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\02.xnb</Output>
+      <Time>2013-04-15T05:40:34.9954181+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\03.jpg</Source>
+      <Name>StoryScreen\03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\03.xnb</Output>
+      <Time>2013-04-15T05:40:35.4585061+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\04.jpg</Source>
+      <Name>StoryScreen\04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\04.xnb</Output>
+      <Time>2013-04-15T05:40:35.6595044+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\05.jpg</Source>
+      <Name>StoryScreen\05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\05.xnb</Output>
+      <Time>2013-04-15T05:40:35.8347828+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\06.jpg</Source>
+      <Name>StoryScreen\06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\06.xnb</Output>
+      <Time>2013-04-15T05:40:36.0111318+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\07.jpg</Source>
+      <Name>StoryScreen\07</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\07.xnb</Output>
+      <Time>2013-04-15T05:40:36.1546415+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\08.jpg</Source>
+      <Name>StoryScreen\08</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\08.xnb</Output>
+      <Time>2013-04-15T05:40:36.3313926+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\09.jpg</Source>
+      <Name>StoryScreen\09</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\09.xnb</Output>
+      <Time>2013-04-15T05:40:36.4988193+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\10.jpg</Source>
+      <Name>StoryScreen\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\10.xnb</Output>
+      <Time>2013-04-15T05:40:36.6826875+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\11.jpg</Source>
+      <Name>StoryScreen\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\11.xnb</Output>
+      <Time>2013-04-15T05:40:36.8604489+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\12.jpg</Source>
+      <Name>StoryScreen\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\12.xnb</Output>
+      <Time>2013-04-15T05:40:37.1790327+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\13.jpg</Source>
+      <Name>StoryScreen\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\13.xnb</Output>
+      <Time>2013-04-15T05:40:37.3951293+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Character\Ppuooo_Frog_Moving.png</Source>
+      <Name>PlayScreen\Character\Ppuooo_Frog_Moving</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Frog_Moving.xnb</Output>
+      <Time>2013-03-14T15:18:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Character\Ppuooo_PolarBear_Action.png</Source>
+      <Name>PlayScreen\Character\Ppuooo_PolarBear_Action</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_PolarBear_Action.xnb</Output>
+      <Time>2013-03-27T17:07:22+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\SkillImage\PpuoooSkill.png</Source>
+      <Name>PlayScreen\SkillImage\PpuoooSkill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\PpuoooSkill.xnb</Output>
+      <Time>2013-03-20T15:24:06+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\SkillImage\ArmadilloSkill.png</Source>
+      <Name>PlayScreen\SkillImage\ArmadilloSkill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\ArmadilloSkill.xnb</Output>
+      <Time>2013-03-20T15:26:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\Character\Ppuooo_Standing.png</Source>
+      <Name>PlayScreen\Character\Ppuooo_Standing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\Character\Ppuooo_Standing.xnb</Output>
+      <Time>2013-04-01T20:43:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\PolarBear\CompletePosition.png</Source>
+      <Name>PlayScreen\PolarBear\CompletePosition</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\PolarBear\CompletePosition.xnb</Output>
+      <Time>2013-04-03T16:21:32+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\SkillImage\TunaSkill.png</Source>
+      <Name>PlayScreen\SkillImage\TunaSkill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\TunaSkill.xnb</Output>
+      <Time>2013-03-20T15:26:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\SkillImage\Rhinoceros.png</Source>
+      <Name>PlayScreen\SkillImage\Rhinoceros</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\Rhinoceros.xnb</Output>
+      <Time>2013-03-20T15:26:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\SkillImage\FrogSkill.png</Source>
+      <Name>PlayScreen\SkillImage\FrogSkill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\FrogSkill.xnb</Output>
+      <Time>2013-03-25T21:34:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\SkillImage\PandaSkill.png</Source>
+      <Name>PlayScreen\SkillImage\PandaSkill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\PandaSkill.xnb</Output>
+      <Time>2013-03-25T21:34:10+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\State\State_Skill.png</Source>
+      <Name>PlayScreen\State\State_Skill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\State_Skill.xnb</Output>
+      <Time>2013-03-25T19:46:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\EmptyButton.png</Source>
+      <Name>StoryScreen\EmptyButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\EmptyButton.xnb</Output>
+      <Time>2013-03-25T20:19:02+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\SkillImage\SkillBorder.png</Source>
+      <Name>PlayScreen\SkillImage\SkillBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\SkillBorder.xnb</Output>
+      <Time>2013-03-25T22:00:34+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\StageElement\IceFall.png</Source>
+      <Name>PlayScreen\StageElement\IceFall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\IceFall.xnb</Output>
+      <Time>2013-04-08T17:38:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\StageElement\IcePick.png</Source>
+      <Name>PlayScreen\StageElement\IcePick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\IcePick.xnb</Output>
+      <Time>2013-03-29T17:58:46+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\StageElement\SnowFall.png</Source>
+      <Name>PlayScreen\StageElement\SnowFall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\SnowFall.xnb</Output>
+      <Time>2013-03-29T17:58:46+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Exit.png</Source>
+      <Name>TitleScreen\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Exit.xnb</Output>
+      <Time>2013-04-01T17:00:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\AntelopeBlack.png</Source>
+      <Name>TitleScreen\Character\AntelopeBlack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\AntelopeBlack.xnb</Output>
+      <Time>2013-04-01T18:08:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\AntelopeColor.png</Source>
+      <Name>TitleScreen\Character\AntelopeColor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\AntelopeColor.xnb</Output>
+      <Time>2013-04-01T18:08:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\ArmadilloBlack.png</Source>
+      <Name>TitleScreen\Character\ArmadilloBlack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\ArmadilloBlack.xnb</Output>
+      <Time>2013-04-01T18:08:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\ArmadilloColor.png</Source>
+      <Name>TitleScreen\Character\ArmadilloColor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\ArmadilloColor.xnb</Output>
+      <Time>2013-04-01T18:08:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\FrogBlack.png</Source>
+      <Name>TitleScreen\Character\FrogBlack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\FrogBlack.xnb</Output>
+      <Time>2013-04-01T18:08:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\FrogColor.png</Source>
+      <Name>TitleScreen\Character\FrogColor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\FrogColor.xnb</Output>
+      <Time>2013-04-01T18:08:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\PandaBlack.png</Source>
+      <Name>TitleScreen\Character\PandaBlack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\PandaBlack.xnb</Output>
+      <Time>2013-04-01T18:08:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\PandaColor.png</Source>
+      <Name>TitleScreen\Character\PandaColor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\PandaColor.xnb</Output>
+      <Time>2013-04-01T18:08:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\PolarBearBlack.png</Source>
+      <Name>TitleScreen\Character\PolarBearBlack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\PolarBearBlack.xnb</Output>
+      <Time>2013-04-01T18:08:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\PolarBearColor.png</Source>
+      <Name>TitleScreen\Character\PolarBearColor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\PolarBearColor.xnb</Output>
+      <Time>2013-04-01T18:08:42+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\Ppuooo.png</Source>
+      <Name>TitleScreen\Character\Ppuooo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\Ppuooo.xnb</Output>
+      <Time>2013-04-01T18:08:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\RhinocerosBlack.png</Source>
+      <Name>TitleScreen\Character\RhinocerosBlack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\RhinocerosBlack.xnb</Output>
+      <Time>2013-04-01T18:08:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\RhinocerosColor.png</Source>
+      <Name>TitleScreen\Character\RhinocerosColor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\RhinocerosColor.xnb</Output>
+      <Time>2013-04-01T18:08:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\TunaBlack.png</Source>
+      <Name>TitleScreen\Character\TunaBlack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\TunaBlack.xnb</Output>
+      <Time>2013-04-01T18:08:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\TunaColor.png</Source>
+      <Name>TitleScreen\Character\TunaColor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\TunaColor.xnb</Output>
+      <Time>2013-04-01T18:08:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\PpuingPpuingText.png</Source>
+      <Name>TitleScreen\PpuingPpuingText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\PpuingPpuingText.xnb</Output>
+      <Time>2013-03-11T17:16:56+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\PpuooooooText.png</Source>
+      <Name>TitleScreen\PpuooooooText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\PpuooooooText.xnb</Output>
+      <Time>2013-03-11T17:09:30+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\BigApple.png</Source>
+      <Name>TitleScreen\BigApple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\BigApple.xnb</Output>
+      <Time>2013-04-01T19:36:26+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\SmallApple.png</Source>
+      <Name>TitleScreen\SmallApple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\SmallApple.xnb</Output>
+      <Time>2013-04-01T19:36:26+09:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\Character\Shadow.png</Source>
+      <Name>TitleScreen\Character\Shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\TitleScreen\Character\Shadow.xnb</Output>
+      <Time>2013-04-03T12:21:44+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreen\AgainMark.png</Source>
+      <Name>ResultScreen\AgainMark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\AgainMark.xnb</Output>
+      <Time>2013-04-03T17:02:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreen\AgainText.png</Source>
+      <Name>ResultScreen\AgainText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\AgainText.xnb</Output>
+      <Time>2013-04-03T17:02:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreen\Background.jpg</Source>
+      <Name>ResultScreen\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Background.xnb</Output>
+      <Time>2013-04-03T17:02:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreen\EmptyBead.png</Source>
+      <Name>ResultScreen\EmptyBead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\EmptyBead.xnb</Output>
+      <Time>2013-04-03T17:02:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreen\FullBead.png</Source>
+      <Name>ResultScreen\FullBead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\FullBead.xnb</Output>
+      <Time>2013-04-03T17:02:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreen\Leaf.png</Source>
+      <Name>ResultScreen\Leaf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Leaf.xnb</Output>
+      <Time>2013-04-03T17:02:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreen\Percent.png</Source>
+      <Name>ResultScreen\Percent</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Percent.xnb</Output>
+      <Time>2013-04-03T17:02:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreen\Result.png</Source>
+      <Name>ResultScreen\Result</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Result.xnb</Output>
+      <Time>2013-04-03T17:02:58+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreen\Ppuooo.png</Source>
+      <Name>ResultScreen\Ppuooo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Ppuooo.xnb</Output>
+      <Time>2013-04-04T03:13:46+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\StageElement\BeadPiece.png</Source>
+      <Name>PlayScreen\StageElement\BeadPiece</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\BeadPiece.xnb</Output>
+      <Time>2013-04-08T17:38:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\StageElement\LeafPiece.png</Source>
+      <Name>PlayScreen\StageElement\LeafPiece</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\StageElement\LeafPiece.xnb</Output>
+      <Time>2013-04-08T17:38:36+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\SkillImage\PolarBearSkill.png</Source>
+      <Name>PlayScreen\SkillImage\PolarBearSkill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\SkillImage\PolarBearSkill.xnb</Output>
+      <Time>2013-03-25T21:34:48+09:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayScreen\State\myFont.spritefont</Source>
+      <Name>PlayScreen\State\myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\PlayScreen\State\myFont.xnb</Output>
+      <Time>2013-03-14T15:18:54+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreen\myFont.spritefont</Source>
+      <Name>ResultScreen\myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\myFont.xnb</Output>
+      <Time>2013-04-04T02:50:12+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\ButtonS.wma</Source>
+      <Name>Music\ButtonS</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\ButtonS.xnb</Output>
+      <Time>2013-03-14T14:21:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\hurt.wma</Source>
+      <Name>Music\hurt</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\hurt.xnb</Output>
+      <Time>2013-03-14T14:21:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\knife.wma</Source>
+      <Name>Music\knife</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\knife.xnb</Output>
+      <Time>2013-03-14T14:21:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\punch.wma</Source>
+      <Name>Music\punch</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\punch.xnb</Output>
+      <Time>2013-03-14T14:21:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\punch2.wma</Source>
+      <Name>Music\punch2</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\punch2.xnb</Output>
+      <Time>2013-03-14T14:21:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\TitleMusic.wma</Source>
+      <Name>Music\TitleMusic</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\TitleMusic.xnb</Output>
+      <Extra>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\TitleMusic.wma</Extra>
+      <Time>2013-03-14T14:21:04+09:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Stop.png</Source>
+      <Name>UI\Stop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Stop.xnb</Output>
+      <Time>2013-04-13T17:57:23.0777216+09:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Replay.png</Source>
+      <Name>UI\Replay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\Replay.xnb</Output>
+      <Time>2013-04-13T17:57:23.0857284+09:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\SettingHome.png</Source>
+      <Name>UI\SettingHome</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\UI\SettingHome.xnb</Output>
+      <Time>2013-04-13T17:57:23.0887286+09:00</Time>
+    </Item>
+    <Item>
+      <Source>173.png</Source>
+      <Name>173</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\173.xnb</Output>
+      <Time>2013-04-13T18:39:34.5643277+09:00</Time>
+    </Item>
+    <Item>
+      <Source>62.png</Source>
+      <Name>62</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\62.xnb</Output>
+      <Time>2013-04-13T18:39:34.5673311+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreen\Success.png</Source>
+      <Name>ResultScreen\Success</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Success.xnb</Output>
+      <Time>2013-04-14T17:12:03.6780679+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreen\Fail.png</Source>
+      <Name>ResultScreen\Fail</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\ResultScreen\Fail.xnb</Output>
+      <Time>2013-04-14T18:59:51.8232947+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss\Boss_Moving.png</Source>
+      <Name>Boss\Boss_Moving</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Boss\Boss_Moving.xnb</Output>
+      <Time>2013-04-15T06:16:52.4091129+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss\Boss_Attack.png</Source>
+      <Name>Boss\Boss_Attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Boss\Boss_Attack.xnb</Output>
+      <Time>2013-04-15T06:16:52.4111153+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss\Boss_Tired.png</Source>
+      <Name>Boss\Boss_Tired</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Boss\Boss_Tired.xnb</Output>
+      <Time>2013-04-15T06:16:52.4131163+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Boss\Boss_Bounce.png</Source>
+      <Name>Boss\Boss_Bounce</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Boss\Boss_Bounce.xnb</Output>
+      <Time>2013-04-15T06:16:52.4141155+09:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryScreen\14.jpg</Source>
+      <Name>StoryScreen\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\StoryScreen\14.xnb</Output>
+      <Time>2013-04-15T05:40:37.3981321+09:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\PlayBGM.wma</Source>
+      <Name>Music\PlayBGM</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\PlayBGM.xnb</Output>
+      <Extra>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\Music\PlayBGM.wma</Extra>
+      <Time>2013-03-14T14:21:04+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{96B92FC1-B427-4037-BC9D-11CA3EA75035}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuingContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuing\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-22T03:32:47.9527113+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

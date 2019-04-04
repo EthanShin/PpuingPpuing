@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PpuingPpuing", "PpuingPpuing\PpuingPpuing\PpuingPpuing.csproj", "{2F84FD2F-063F-4A91-B215-604BE4A3E150}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PpuingPpuingContent", "PpuingPpuing\PpuingPpuingContent\PpuingPpuingContent.contentproj", "{96B92FC1-B427-4037-BC9D-11CA3EA75035}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F84FD2F-063F-4A91-B215-604BE4A3E150}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{2F84FD2F-063F-4A91-B215-604BE4A3E150}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{2F84FD2F-063F-4A91-B215-604BE4A3E150}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{2F84FD2F-063F-4A91-B215-604BE4A3E150}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{2F84FD2F-063F-4A91-B215-604BE4A3E150}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{2F84FD2F-063F-4A91-B215-604BE4A3E150}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{96B92FC1-B427-4037-BC9D-11CA3EA75035}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{96B92FC1-B427-4037-BC9D-11CA3EA75035}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

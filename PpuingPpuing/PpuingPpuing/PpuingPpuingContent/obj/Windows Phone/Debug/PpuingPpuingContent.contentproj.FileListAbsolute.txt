@@ -1,0 +1,5 @@
+c:\users\byeong-ki\documents\visual studio 2010\Projects\PpuingPpuing\PpuingPpuing\PpuingPpuingContent\obj\Windows Phone\Debug\PpuingPpuingContent.contentprojResolveAssemblyReference.cache
+C:\Users\Finoriko\Desktop\20130313\PpuingPpuing\PpuingPpuing\PpuingPpuingContent\obj\Windows Phone\Debug\PpuingPpuingContent.contentprojResolveAssemblyReference.cache
+F:\PpuingPpuing\PpuingPpuing\PpuingPpuingContent\obj\Windows Phone\Debug\PpuingPpuingContent.contentprojResolveAssemblyReference.cache
+C:\Users\Byeong-ki\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuingContent\obj\Windows Phone\Debug\PpuingPpuingContent.contentprojResolveAssemblyReference.cache
+C:\Users\명훈\Desktop\PpuingPpuing\PpuingPpuing\PpuingPpuingContent\obj\Windows Phone\Debug\PpuingPpuingContent.contentprojResolveAssemblyReference.cache
